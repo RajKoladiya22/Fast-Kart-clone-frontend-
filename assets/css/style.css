@@ -2392,7 +2392,7 @@ header .top-header .rs-side-bar .offcanvas .modal-backdrop.show {
   position: sticky;
   bottom: 0%;
   width: 100%;
-  padding: 7px 100px;
+  padding: 7px 15px;
   z-index: 9999999;
 }
 .rs-foot .rs-box a {
